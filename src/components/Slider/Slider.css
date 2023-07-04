@@ -1,0 +1,22 @@
+.slider-font {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 300px;
+    width: 100%;
+    backdrop-filter: blur(2px);
+    color: white;
+}
+
+.slider-font h1 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.slider-font p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
